@@ -132,12 +132,12 @@ I'm currently pursuing an Integrated Dual Degree (B.Tech + M.Tech) in Computer S
   <a href="https://www.linkedin.com/in/mukund-prasad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mukundxplore@gmail.com" target="_blank">
+  <a href="mailto:mukundprasad2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+<!--   <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  </a> -->
   <a href="https://formspree.io/f/xpwrpepy" target="_blank">
     <img src="https://img.shields.io/badge/Contact%20Form-black?style=for-the-badge&logo=formspree&logoColor=white" alt="Contact Form"/>
   </a>
@@ -148,18 +148,3 @@ I'm currently pursuing an Integrated Dual Degree (B.Tech + M.Tech) in Computer S
 _Thanks for stopping by! Let’s connect, collaborate, and grow together!_ 🚀
 
 <p align="center"><sub><i>Last updated: 10th June 2025</i></sub></p>
-
-<!--
-**MukundXplore/MukundXplore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

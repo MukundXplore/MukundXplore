@@ -25,7 +25,7 @@
 
 - 🎓 **South Asian University** (2024–2029)  
   *Integrated Dual Degree (B.Tech + M.Tech) in Computer Science*  
-- 🏅 Class 10: 94.6% (4th in District) | Class 11: 2nd Rank | Class 12: 82.33%  
+- 🏅 Class 10: 94.6% (4th in District) | Class 11: 2nd Rank | Class 12: 80.8%  
 - 🌟 Active in Olympiads, science fairs, and academic events  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mukund-prasad/)
 

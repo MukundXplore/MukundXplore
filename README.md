@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Mukund+Prasad;Aspiring+Software+Engineer;Python+%7C+AI+%7C+Web+Dev+Enthusiast;&center=true&width=500&height=45&color=F7F7F7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Mukund+Prasad+%F0%9F%91%8B;Aspiring+Software+Engineer+%F0%9F%92%BB;Vibe+Coder+in+Web+Dev+%E2%9A%A1;Python+%7C+AI+%7C+IoT+%7C+Frontend+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%8D;Let%E2%80%99s+Connect+and+Build+Together+%F0%9F%A4%9D;&center=true&vCenter=true&pause=500&width=650&height=50&color=FFFFFF&size=23&repeat=true" />
 </p>
 
 <div align="center">
-  <img src="https://octodex.github.com/images/welcometocat.png" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2d258a07-2d86-4544-856c-6626282cc7d0" alt="profile image" style="width: 400px; border-radius: 50%; object-fit: cover;"/>
 </div>
 
 # 👋 Hi there, I'm Mukund Prasad!
@@ -99,4 +99,10 @@
 ---
 _Thanks for stopping by! Let’s connect, collaborate, and grow together!_ 🚀
 
-<p align="center"><sub><i>Last updated: 10th June 2025</i></sub></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+don't+just+write+code+-+I+build+with+belief.;Possibilities+are+infinite.;The+sky+isn't+the+limit+when+footprints+reach+the+moon.+%F0%9F%9A%80%F0%9F%8C%95%E2%9C%A8;&center=true&vCenter=true&pause=700&width=800&height=50&color=FFFFFF&size=22&repeat=true" />
+</p>
+
+
+<p align="center"><sub><i>Last updated: 21st June 2025</i></sub></p>

@@ -91,7 +91,7 @@
   <a href="mailto:mukundprasad2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mukundxplore.github.io/profile/contact.html" target="_blank">
+  <a href="https://mukundxplore.github.io/pages/contact.html" target="_blank">
     <img src="https://img.shields.io/badge/Contact%20Form-black?style=for-the-badge&logo=formspree&logoColor=white" />
   </a>
 </p>
